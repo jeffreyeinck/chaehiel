@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahgueveix.clubklus.nl/sitemap.xml
